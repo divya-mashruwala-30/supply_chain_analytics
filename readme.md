@@ -274,8 +274,6 @@ Business Insights
 
 **Divya Mashruwala**
 
-- LinkedIn: *Add your LinkedIn profile*
-- GitHub: *Add your GitHub profile*
 
 ---
 
