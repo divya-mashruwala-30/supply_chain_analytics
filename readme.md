@@ -1,4 +1,4 @@
-# 📦 Supply Chain Analytics using Machine Learning
+# 📦 Supply Chain Analytics
 
 An end-to-end Machine Learning project that predicts **Late Delivery Risk** for supply chain orders and performs **Customer Segmentation** using unsupervised learning. The project also includes a **Streamlit web application** for interactive predictions and customer segmentation.
 
