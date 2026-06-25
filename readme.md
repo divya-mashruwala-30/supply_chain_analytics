@@ -30,14 +30,12 @@ Supply_Chain_Analytics/
 │
 ├── app/
 │   ├── streamlit_app.py
-│   ├── classifier.pkl
-│   ├── customer_segmentation_kmeans.pkl
-│   ├── customer_segmentation_scaler.pkl
-│   └── categories.pkl
+│   ├── requirements.txt
+
 │
-├── requirements.txt
+
 ├── README.md
-└── dataset/
+
 ```
 
 ---
